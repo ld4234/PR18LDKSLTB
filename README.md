@@ -49,3 +49,6 @@ S podatkov smo uspeli razbrati, da se je količina količina ogljikovega dioksid
 #Vprašanja
 
 [alt text](https://github.com/ld4234/PR18LDKSLTB/blob/master/visual/SloDeaths.png)
+
+[alt text](https://drive.google.com/open?id=1U-pnOt0Qi2mg21TSK32i37k_SFC3LcoK)
+
