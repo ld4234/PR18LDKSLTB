@@ -46,5 +46,6 @@ PODATKI:
 
 S podatkov smo uspeli razbrati, da se je količina količina ogljikovega dioksida od leta 1955 povečala za kar 100%.
 
+#Vprašanja
 
-
+[alt text](https://github.com/ld4234/PR18LDKSLTB/blob/master/visual/SloDeaths.png)
