@@ -1,5 +1,6 @@
 from country_codes import codes
 from redlist_api import species_by_country
+from cache import JsonSerializer
 
 
 class SpeciesStatistics:
@@ -13,13 +14,18 @@ class SpeciesStatistics:
         data = dict()
 
         for code in codes.values():
-            fetch = species_by_country(code)
+            if JsonSerializer.cached(code):
+                fetch = JsonSerializer.country_data(code)  # fast local cache
+            else:
+                fetch = species_by_country(code)  # slow API fetch
 
             # data for the country does not exist
             if not fetch.get('result'):
                 print("No data for", code)
                 continue
 
+            if not JsonSerializer.cached(code):
+                JsonSerializer.persist_country_data(code, fetch)
             data[code] = fetch.get('count')
 
         return data
