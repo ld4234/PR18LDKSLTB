@@ -1,5 +1,5 @@
-from country_codes import codes
-from redlist_api import species_by_country
+from constants.country_codes import codes
+from api.redlist_api import species_by_country
 from cache import JsonSerializer
 
 
