@@ -32,3 +32,14 @@ class JsonSerializer:
 
         path = "./data/cache/{}.json".format(country)
         return exists(path)
+
+
+if __name__ == "__main__":
+    from constants.country_codes import codes
+    from api import redlist_api
+    for code in codes.values():
+        if not JsonSerializer.cached(code):
+            data = redlist_api.species_by_country(code)
+            if data["count"] != len(data["result"]):   # testing to see if we need to implement pagination
+                print(data)
+            JsonSerializer.persist_country_data(code, data)

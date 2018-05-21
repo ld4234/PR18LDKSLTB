@@ -1,4 +1,3 @@
-sep=,
 year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homeless,"Total affected","Total damage  ('000 US$)"
 1900,Caribbean,JAM,Jamaica,2,330,,,,,
 1900,"Eastern Asia",JPN,Japan,1,30,,,,,
@@ -516,7 +515,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1947,"Southern Europe",ESP,Spain,1,147,,,,,
 1947,"Western Europe",BEL,Belgium,1,17,40,,,40,
 1948,Caribbean,CUB,Cuba,2,14,300,,,300,18000
-1948,"Eastern Africa",REU,Réunion,1,165,,,,,
+1948,"Eastern Africa",REU,Rï¿½union,1,165,,,,,
 1948,"Eastern Asia",CHN,China,4,3230,,,,,
 1948,"Eastern Asia",HKG,"Hong Kong",1,135,,,,,
 1948,"Eastern Asia",JPN,Japan,2,5999,,414153,,414153,1000000
@@ -1223,7 +1222,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1970,"Southern Europe",ITA,Italy,2,72,,1300200,1650,1301850,271500
 1970,"Southern Europe",ESP,Spain,1,52,,,,,
 1970,"Western Africa",BEN,Benin,1,,,,,,200
-1970,"Western Africa",CIV,"Côte d’Ivoire",1,120,,1500,,1500,
+1970,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,120,,1500,,1500,
 1970,"Western Africa",NER,"Niger (the)",1,319,,2677,,2677,
 1970,"Western Asia",CYP,Cyprus,1,,,,,,
 1970,"Western Asia",ISR,Israel,1,20,,13,,13,
@@ -1533,7 +1532,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1977,"Eastern Africa",KEN,Kenya,1,100,,20000,,20000,10000
 1977,"Eastern Africa",MDG,Madagascar,1,10,,30000,,30000,350000
 1977,"Eastern Africa",MOZ,Mozambique,3,462,51,400000,40000,440051,55500
-1977,"Eastern Africa",REU,Réunion,1,,,1000,,1000,
+1977,"Eastern Africa",REU,Rï¿½union,1,,,1000,,1000,
 1977,"Eastern Africa",SOM,Somalia,2,,,42671,,42671,
 1977,"Eastern Africa",TZA,"Tanzania, United Republic of",3,500,,26050,,26050,
 1977,"Eastern Asia",HKG,"Hong Kong",4,1,37,57,131,225,
@@ -1582,7 +1581,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1977,"Southern Europe",ITA,Italy,2,23,,1000,,1000,194000
 1977,"Southern Europe",PRT,Portugal,1,132,,32,,32,
 1977,"Western Africa",BFA,"Burkina Faso",2,,,442000,900,442900,
-1977,"Western Africa",CIV,"Côte d’Ivoire",1,41,,,,,
+1977,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,41,,,,,
 1977,"Western Africa",GMB,"Gambia (the)",2,,,85000,,85000,4000
 1977,"Western Africa",GHA,Ghana,2,,,6558,,6558,
 1977,"Western Africa",LBR,Liberia,1,,,950,,950,
@@ -1754,7 +1753,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1980,"Eastern Africa",ETH,Ethiopia,1,157,,25000,,25000,
 1980,"Eastern Africa",MUS,Mauritius,1,,,108,,108,
 1980,"Eastern Africa",MOZ,Mozambique,1,10,,200,,200,
-1980,"Eastern Africa",REU,Réunion,2,35,,7000,,7000,67000
+1980,"Eastern Africa",REU,Rï¿½union,2,35,,7000,,7000,67000
 1980,"Eastern Africa",SOM,Somalia,1,,,,,,
 1980,"Eastern Africa",TZA,"Tanzania, United Republic of",1,12,,,,,
 1980,"Eastern Asia",CHN,China,5,6491,27100,80000,100,107200,160000
@@ -2030,7 +2029,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1983,"Southern Europe",YUG,Yugoslavia,2,12,,,,,200000
 1983,"Western Africa",BEN,Benin,1,,,2100000,,2100000,651
 1983,"Western Africa",BFA,"Burkina Faso",1,237,,386,,386,
-1983,"Western Africa",CIV,"Côte d’Ivoire",1,,,,,,
+1983,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,,,,,,
 1983,"Western Africa",GHA,Ghana,1,,,12500000,,12500000,
 1983,"Western Africa",GIN,Guinea,1,275,1436,20000,,21436,
 1983,"Western Africa",LBR,Liberia,1,,,,,,
@@ -2065,7 +2064,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1984,"Eastern Africa",MDG,Madagascar,2,121,215,100000,,100215,250000
 1984,"Eastern Africa",MUS,Mauritius,1,,,,,,
 1984,"Eastern Africa",MOZ,Mozambique,1,109,,350000,,350000,75000
-1984,"Eastern Africa",REU,Réunion,1,,,,,,
+1984,"Eastern Africa",REU,Rï¿½union,1,,,,,,
 1984,"Eastern Africa",RWA,Rwanda,1,,,420000,,420000,
 1984,"Eastern Africa",TZA,"Tanzania, United Republic of",2,33,74,1900000,,1900074,
 1984,"Eastern Asia",CHN,China,6,144,40,28000,,28040,
@@ -2323,7 +2322,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1987,"Eastern Africa",MWI,Malawi,1,,,1429267,,1429267,
 1987,"Eastern Africa",MUS,Mauritius,1,159,,,,,
 1987,"Eastern Africa",MOZ,Mozambique,1,50,,8000,,8000,
-1987,"Eastern Africa",REU,Réunion,1,10,,4000,,4000,2000
+1987,"Eastern Africa",REU,Rï¿½union,1,10,,4000,,4000,2000
 1987,"Eastern Africa",SOM,Somalia,2,600,,500000,30000,530000,
 1987,"Eastern Africa",TZA,"Tanzania, United Republic of",1,90,,500,,500,
 1987,"Eastern Africa",UGA,Uganda,4,171,,600000,,600000,
@@ -2395,7 +2394,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1987,"Southern Europe",YUG,Yugoslavia,1,27,,,,,
 1987,"Western Africa",BEN,Benin,2,65,,403,,403,
 1987,"Western Africa",BFA,"Burkina Faso",1,,,,,,
-1987,"Western Africa",CIV,"Côte d’Ivoire",1,51,,,,,
+1987,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,51,,,,,
 1987,"Western Africa",GMB,"Gambia (the)",1,,,,,,
 1987,"Western Africa",GIN,Guinea,1,18,,30,,30,
 1987,"Western Africa",GNB,Guinea-Bissau,3,69,3,6000,3700,9703,
@@ -2537,7 +2536,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1989,"Eastern Africa",MWI,Malawi,4,69,143,444,150000,150587,28000
 1989,"Eastern Africa",MUS,Mauritius,1,1,507,4000,,4507,60000
 1989,"Eastern Africa",MOZ,Mozambique,3,99,48,,,48,
-1989,"Eastern Africa",REU,Réunion,1,10,61,6200,,6261,50000
+1989,"Eastern Africa",REU,Rï¿½union,1,10,61,6200,,6261,50000
 1989,"Eastern Africa",RWA,Rwanda,1,237,,60000,,60000,
 1989,"Eastern Africa",SOM,Somalia,3,64,,50000,,50000,
 1989,"Eastern Africa",TZA,"Tanzania, United Republic of",2,30,,141056,,141056,
@@ -2605,7 +2604,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1989,"Southern Europe",ESP,Spain,3,45,,,,,375000
 1989,"Southern Europe",YUG,Yugoslavia,2,104,20,,,20,
 1989,"Western Africa",BEN,Benin,1,228,,2411,,2411,
-1989,"Western Africa",CIV,"Côte d’Ivoire",2,48,70,7000,,7070,
+1989,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,48,70,7000,,7070,
 1989,"Western Africa",GHA,Ghana,2,7,,2819,,2819,
 1989,"Western Africa",GIN,Guinea,1,17,,,,,
 1989,"Western Africa",GNB,Guinea-Bissau,1,,,2625,,2625,
@@ -2757,7 +2756,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1991,"Eastern Africa",MWI,Malawi,1,472,,,150000,150000,24000
 1991,"Eastern Africa",MUS,Mauritius,1,,,6000,1500,7500,
 1991,"Eastern Africa",MOZ,Mozambique,2,109,100,3300000,,3300100,50000
-1991,"Eastern Africa",REU,Réunion,2,45,,,,,
+1991,"Eastern Africa",REU,Rï¿½union,2,45,,,,,
 1991,"Eastern Africa",RWA,Rwanda,1,32,,214,,214,
 1991,"Eastern Africa",SOM,Somalia,1,130,,,,,
 1991,"Eastern Africa",TZA,"Tanzania, United Republic of",5,687,,801733,,801733,
@@ -2831,7 +2830,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1991,"Southern Europe",ESP,Spain,2,17,50,,,50,
 1991,"Western Africa",BEN,Benin,1,3,,,,,
 1991,"Western Africa",BFA,"Burkina Faso",1,37,,,,,
-1991,"Western Africa",CIV,"Côte d’Ivoire",1,16,50,,,50,
+1991,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,16,50,,,50,
 1991,"Western Africa",GHA,Ghana,4,109,,2000000,,2000000,
 1991,"Western Africa",MLI,Mali,2,52,,302000,,302000,
 1991,"Western Africa",MRT,Mauritania,1,4,300,,,300,
@@ -2986,7 +2985,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1993,"Eastern Africa",ETH,Ethiopia,3,32,40,30000,4800,34840,
 1993,"Eastern Africa",KEN,Kenya,4,449,43,,,43,
 1993,"Eastern Africa",MOZ,Mozambique,2,102,63,,,63,
-1993,"Eastern Africa",REU,Réunion,1,14,,,,,
+1993,"Eastern Africa",REU,Rï¿½union,1,14,,,,,
 1993,"Eastern Africa",TZA,"Tanzania, United Republic of",2,54,30,201513,280,201823,3510
 1993,"Eastern Africa",UGA,Uganda,1,30,,,,,
 1993,"Eastern Asia",CHN,China,47,3050,6082,8643580,185360,8835022,7496514
@@ -3052,7 +3051,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1993,"Southern Europe",ITA,Italy,3,34,120,1000,,1120,625000
 1993,"Southern Europe",MKD,"Macedonia (the former Yugoslav Republic of)",3,198,15,10000,,10015,
 1993,"Southern Europe",ESP,Spain,1,40,,,,,
-1993,"Western Africa",CIV,"Côte d’Ivoire",1,23,117,,,117,
+1993,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,23,117,,,117,
 1993,"Western Africa",GHA,Ghana,1,30,9,,,9,
 1993,"Western Africa",GIN,Guinea,1,,,6066,,6066,
 1993,"Western Africa",GNB,Guinea-Bissau,1,,,1722,,1722,
@@ -3159,7 +3158,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1994,"Western Africa",BEN,Benin,1,,,14000,20000,34000,
 1994,"Western Africa",BFA,"Burkina Faso",1,22,,66500,,66500,
 1994,"Western Africa",CPV,"Cabo Verde",1,245,,12344,,12344,
-1994,"Western Africa",CIV,"Côte d’Ivoire",1,16,,,,,
+1994,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,16,,,,,
 1994,"Western Africa",GIN,Guinea,1,311,,24000,,24000,
 1994,"Western Africa",GNB,Guinea-Bissau,1,195,,8631,,8631,
 1994,"Western Africa",MRT,Mauritania,1,80,7,,,7,
@@ -3288,7 +3287,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1995,"Western Africa",BEN,Benin,1,20,,115000,8000,123000,3100
 1995,"Western Africa",BFA,"Burkina Faso",1,,,75590,,75590,
 1995,"Western Africa",CPV,"Cabo Verde",1,,6,1300,5000,6306,
-1995,"Western Africa",CIV,"Côte d’Ivoire",1,150,,2027,,2027,
+1995,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,150,,2027,,2027,
 1995,"Western Africa",GHA,Ghana,1,145,,500000,200000,700000,12500
 1995,"Western Africa",GIN,Guinea,1,100,,,,,
 1995,"Western Africa",GNB,Guinea-Bissau,1,14,,,,,
@@ -3416,7 +3415,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1996,"Southern Europe",ESP,Spain,4,115,227,4000,,4227,604300
 1996,"Western Africa",BEN,Benin,2,76,,147922,826,148748,
 1996,"Western Africa",BFA,"Burkina Faso",2,4135,,40967,,40967,
-1996,"Western Africa",CIV,"Côte d’Ivoire",1,28,,,,,
+1996,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,28,,,,,
 1996,"Western Africa",GMB,"Gambia (the)",1,,,4000,,4000,
 1996,"Western Africa",GHA,Ghana,1,411,,3757,,3757,
 1996,"Western Africa",GNB,Guinea-Bissau,1,961,,26967,,26967,
@@ -3536,7 +3535,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1997,"Southern Europe",ESP,Spain,5,72,94,2133,,2227,5000
 1997,"Western Africa",BEN,Benin,2,47,,51226,,51226,
 1997,"Western Africa",BFA,"Burkina Faso",1,2274,,17996,,17996,
-1997,"Western Africa",CIV,"Côte d’Ivoire",1,21,,,,,
+1997,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,21,,,,,
 1997,"Western Africa",GMB,"Gambia (the)",1,120,,793,,793,
 1997,"Western Africa",GHA,Ghana,1,26,,159,,159,
 1997,"Western Africa",GNB,Guinea-Bissau,1,781,,22299,,22299,
@@ -3674,7 +3673,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1998,"Western Africa",BEN,Benin,2,78,,400527,20000,420527,
 1998,"Western Africa",BFA,"Burkina Faso",2,26,,21141,,21141,
 1998,"Western Africa",CPV,"Cabo Verde",1,,,10000,,10000,
-1998,"Western Africa",CIV,"Côte d’Ivoire",2,37,80,,,80,
+1998,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,37,80,,,80,
 1998,"Western Africa",GMB,"Gambia (the)",1,,,1000,,1000,
 1998,"Western Africa",GHA,Ghana,1,67,,1546,,1546,
 1998,"Western Africa",GIN,Guinea,1,12,,,,,
@@ -3824,7 +3823,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 1999,"Western Africa",BEN,Benin,2,12,,47241,10469,57710,215
 1999,"Western Africa",BFA,"Burkina Faso",1,6,,800,760,1560,
 1999,"Western Africa",CPV,"Cabo Verde",1,18,,,,,
-1999,"Western Africa",CIV,"Côte d’Ivoire",2,53,71,,,71,
+1999,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,53,71,,,71,
 1999,"Western Africa",GMB,"Gambia (the)",1,53,,27000,5000,32000,
 1999,"Western Africa",GHA,Ghana,5,136,29,292769,33000,325798,21000
 1999,"Western Africa",GIN,Guinea,2,32,25,123,,148,
@@ -3879,7 +3878,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2000,"Eastern Africa",MDG,Madagascar,3,153,1,1337498,,1337499,9000
 2000,"Eastern Africa",MWI,Malawi,5,134,124,23323,,23447,1000
 2000,"Eastern Africa",MOZ,Mozambique,8,875,4,4518933,1050,4519987,420200
-2000,"Eastern Africa",REU,Réunion,1,2,,,600,600,
+2000,"Eastern Africa",REU,Rï¿½union,1,2,,,600,600,
 2000,"Eastern Africa",RWA,Rwanda,2,49,81,164,,245,
 2000,"Eastern Africa",SOM,Somalia,8,709,,1355990,220000,1575990,
 2000,"Eastern Africa",TZA,"Tanzania, United Republic of",9,135,140,1648,1835,3623,
@@ -3970,7 +3969,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2000,"Southern Europe",SCG,"Serbia Montenegro",4,3,70,6000,12,6082,
 2000,"Southern Europe",ESP,Spain,9,87,334,1000,,1334,75000
 2000,"Western Africa",BEN,Benin,4,402,80,7762,,7842,
-2000,"Western Africa",CIV,"Côte d’Ivoire",2,209,20,,,20,
+2000,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,209,20,,,20,
 2000,"Western Africa",GMB,"Gambia (the)",1,21,,116,,116,
 2000,"Western Africa",GHA,Ghana,1,13,,,,,
 2000,"Western Africa",GIN,Guinea,5,264,16,322,,338,
@@ -4114,7 +4113,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2001,"Southern Europe",ESP,Spain,7,106,25,751,,776,72000
 2001,"Western Africa",BEN,Benin,5,404,7,9760,,9767,
 2001,"Western Africa",BFA,"Burkina Faso",4,2978,,20820,,20820,
-2001,"Western Africa",CIV,"Côte d’Ivoire",3,215,2,3180,,3182,
+2001,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",3,215,2,3180,,3182,
 2001,"Western Africa",GMB,"Gambia (the)",1,1,,250,,250,
 2001,"Western Africa",GHA,Ghana,6,187,118,140141,5000,145259,
 2001,"Western Africa",GIN,Guinea,7,137,43,220143,,220186,
@@ -4166,7 +4165,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2002,"Eastern Africa",MWI,Malawi,7,758,76,3226548,,3226624,
 2002,"Eastern Africa",MUS,Mauritius,1,3,50,,1000,1050,50000
 2002,"Eastern Africa",MOZ,Mozambique,6,244,185,602028,4500,606713,
-2002,"Eastern Africa",REU,Réunion,1,,300,,2800,3100,50000
+2002,"Eastern Africa",REU,Rï¿½union,1,,300,,2800,3100,50000
 2002,"Eastern Africa",RWA,Rwanda,3,197,108,22171,,22279,
 2002,"Eastern Africa",SYC,Seychelles,1,,,6800,,6800,
 2002,"Eastern Africa",SOM,Somalia,5,194,40,1191,,1231,
@@ -4251,7 +4250,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2002,"Southern Europe",ESP,Spain,6,33,1068,734,,1802,10047407
 2002,"Western Africa",BEN,Benin,2,65,,452,,452,
 2002,"Western Africa",CPV,"Cabo Verde",1,,,30000,,30000,
-2002,"Western Africa",CIV,"Côte d’Ivoire",3,77,,861,,861,
+2002,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",3,77,,861,,861,
 2002,"Western Africa",GMB,"Gambia (the)",2,9,,,,,
 2002,"Western Africa",GHA,Ghana,4,128,40,2200,,2240,
 2002,"Western Africa",GIN,Guinea,3,58,11,123,,134,
@@ -4543,7 +4542,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2004,"Southern Europe",ESP,Spain,4,39,100,1600,,1700,17285
 2004,"Western Africa",BFA,"Burkina Faso",5,599,20,2783,,2803,
 2004,"Western Africa",CPV,"Cabo Verde",1,,,,,,
-2004,"Western Africa",CIV,"Côte d’Ivoire",2,49,30,,,30,
+2004,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,49,30,,,30,
 2004,"Western Africa",GMB,"Gambia (the)",2,2,112,6025,,6137,
 2004,"Western Africa",GHA,Ghana,1,24,40,,,40,
 2004,"Western Africa",GIN,Guinea,4,133,50,1092,777,1919,
@@ -4598,7 +4597,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2005,"Eastern Africa",MDG,Madagascar,4,107,25,72700,8877,81602,
 2005,"Eastern Africa",MWI,Malawi,5,61,14,5100000,44500,5144514,
 2005,"Eastern Africa",MOZ,Mozambique,3,16,12,1438825,9000,1447837,
-2005,"Eastern Africa",REU,Réunion,1,,,157000,,157000,
+2005,"Eastern Africa",REU,Rï¿½union,1,,,157000,,157000,
 2005,"Eastern Africa",SOM,Somalia,9,227,30,5199,4500,9729,20
 2005,"Eastern Africa",TZA,"Tanzania, United Republic of",4,25,27,16124,,16151,
 2005,"Eastern Africa",UGA,Uganda,7,65,20,600726,50000,650746,
@@ -4690,7 +4689,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2005,"Southern Europe",ESP,Spain,3,38,1,,,1,2050000
 2005,"Western Africa",BEN,Benin,1,4,,206,,206,
 2005,"Western Africa",BFA,"Burkina Faso",1,9,,606,,606,
-2005,"Western Africa",CIV,"Côte d’Ivoire",1,40,,210,,210,
+2005,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,40,,210,,210,
 2005,"Western Africa",GHA,Ghana,3,98,,2248,,2248,
 2005,"Western Africa",GIN,Guinea,2,82,15,1884,,1899,
 2005,"Western Africa",GNB,Guinea-Bissau,2,411,8,25111,,25119,
@@ -4823,7 +4822,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2006,"Southern Europe",ESP,Spain,4,68,39,,,39,659000
 2006,"Western Africa",BEN,Benin,1,54,20,,,20,
 2006,"Western Africa",BFA,"Burkina Faso",6,855,64,23012,10000,33076,
-2006,"Western Africa",CIV,"Côte d’Ivoire",3,50,69,95382,,95451,
+2006,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",3,50,69,95382,,95451,
 2006,"Western Africa",GHA,Ghana,2,162,,71,,71,
 2006,"Western Africa",GIN,Guinea,6,172,50,1498,,1548,
 2006,"Western Africa",GNB,Guinea-Bissau,2,,,32400,,32400,
@@ -4880,7 +4879,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2007,"Eastern Africa",MWI,Malawi,6,28,12,719306,2659,721977,
 2007,"Eastern Africa",MUS,Mauritius,1,2,,,,,
 2007,"Eastern Africa",MOZ,Mozambique,10,288,564,1088782,3500,1092846,171000
-2007,"Eastern Africa",REU,Réunion,1,2,90,,,90,
+2007,"Eastern Africa",REU,Rï¿½union,1,2,90,,,90,
 2007,"Eastern Africa",RWA,Rwanda,2,30,,4500,,4500,9
 2007,"Eastern Africa",SOM,Somalia,5,1180,61,43687,2000,45748,
 2007,"Eastern Africa",TZA,"Tanzania, United Republic of",7,220,89,284,,373,
@@ -4972,7 +4971,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2007,"Western Africa",BEN,Benin,2,20,49,10000,884,10933,
 2007,"Western Africa",BFA,"Burkina Faso",2,1542,73,113735,28000,141808,
 2007,"Western Africa",CPV,"Cabo Verde",1,57,1,,,1,
-2007,"Western Africa",CIV,"Côte d’Ivoire",4,69,125,2150,,2275,
+2007,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",4,69,125,2150,,2275,
 2007,"Western Africa",GMB,"Gambia (the)",2,32,,315,,315,
 2007,"Western Africa",GHA,Ghana,3,104,130,332600,,332730,
 2007,"Western Africa",GIN,Guinea,4,206,15,23095,,23110,
@@ -5119,7 +5118,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2008,"Southern Europe",ESP,Spain,3,183,18,23,,41,
 2008,"Western Africa",BEN,Benin,5,53,32,159223,996,160251,
 2008,"Western Africa",BFA,"Burkina Faso",6,658,48,53560,4292,57900,
-2008,"Western Africa",CIV,"Côte d’Ivoire",2,50,,450,,450,
+2008,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,50,,450,,450,
 2008,"Western Africa",GMB,"Gambia (the)",3,10,6,300,400,706,
 2008,"Western Africa",GHA,Ghana,2,25,40,58000,,58040,
 2008,"Western Africa",GIN,Guinea,3,27,,4220,,4220,
@@ -5254,7 +5253,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2009,"Western Africa",BEN,Benin,4,60,,120457,,120457,
 2009,"Western Africa",BFA,"Burkina Faso",6,439,1015,153418,,154433,150000
 2009,"Western Africa",CPV,"Cabo Verde",2,9,,20297,,20297,
-2009,"Western Africa",CIV,"Côte d’Ivoire",1,27,6,,10000,10006,
+2009,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,27,6,,10000,10006,
 2009,"Western Africa",GMB,"Gambia (the)",2,5,,16608,,16608,
 2009,"Western Africa",GHA,Ghana,4,78,,159545,,159545,
 2009,"Western Africa",GIN,Guinea,2,15,,40000,,40000,
@@ -5397,7 +5396,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2010,"Southern Europe",ESP,Spain,3,17,10,30,,40,340000
 2010,"Western Africa",BEN,Benin,4,71,1000,681037,150000,832037,
 2010,"Western Africa",BFA,"Burkina Faso",2,857,,139322,,139322,176
-2010,"Western Africa",CIV,"Côte d’Ivoire",2,18,,6425,,6425,
+2010,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,18,,6425,,6425,
 2010,"Western Africa",GMB,"Gambia (the)",2,9,,38961,,38961,
 2010,"Western Africa",GHA,Ghana,4,142,,17274,,17274,
 2010,"Western Africa",GIN,Guinea,3,27,15,48020,,48035,
@@ -5528,7 +5527,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2011,"Southern Europe",ESP,Spain,3,33,300,2400,15000,17700,200000
 2011,"Western Africa",BEN,Benin,2,15,43,5840,,5883,
 2011,"Western Africa",BFA,"Burkina Faso",3,36,87,2850000,,2850087,
-2011,"Western Africa",CIV,"Côte d’Ivoire",3,94,28,,,28,
+2011,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",3,94,28,,,28,
 2011,"Western Africa",GHA,Ghana,5,155,42,104034,,104076,
 2011,"Western Africa",GIN,Guinea,3,56,47,16143,4000,20190,
 2011,"Western Africa",MLI,Mali,5,104,101,3516605,,3516706,
@@ -5657,7 +5656,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2012,"Southern Europe",ESP,Spain,2,14,41,600,,641,395000
 2012,"Western Africa",BEN,Benin,2,21,,55000,,55000,
 2012,"Western Africa",BFA,"Burkina Faso",4,53,30,,21000,21030,
-2012,"Western Africa",CIV,"Côte d’Ivoire",1,36,,,,,
+2012,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,36,,,,,
 2012,"Western Africa",GMB,"Gambia (the)",1,,,428000,,428000,
 2012,"Western Africa",GHA,Ghana,3,86,,5441,,5441,
 2012,"Western Africa",GIN,Guinea,5,215,27,5550,,5577,
@@ -5830,7 +5829,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2014,"Eastern Africa",KEN,Kenya,2,72,3459,1600000,,1603459,
 2014,"Eastern Africa",MDG,Madagascar,2,17,,20000,1736,21736,
 2014,"Eastern Africa",MOZ,Mozambique,2,48,5118,300,,5418,
-2014,"Eastern Africa",REU,Réunion,1,1,15,250,,265,85000
+2014,"Eastern Africa",REU,Rï¿½union,1,1,15,250,,265,85000
 2014,"Eastern Africa",SYC,Seychelles,1,,,4435,,4435,
 2014,"Eastern Africa",SOM,Somalia,2,,,625624,,625624,
 2014,"Eastern Africa",TZA,"Tanzania, United Republic of",2,31,,40000,,40000,2000
@@ -5909,7 +5908,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2014,"Southern Europe",ESP,Spain,2,17,28,,,28,
 2014,"Western Africa",BFA,"Burkina Faso",1,,,4000000,,4000000,
 2014,"Western Africa",CPV,"Cabo Verde",1,,,2500,,2500,
-2014,"Western Africa",CIV,"Côte d’Ivoire",3,64,,,,,
+2014,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",3,64,,,,,
 2014,"Western Africa",GMB,"Gambia (the)",1,,,,,,
 2014,"Western Africa",GHA,Ghana,1,249,29611,26858,,56469,
 2014,"Western Africa",GIN,Guinea,4,2627,3884,,,3884,
@@ -6038,7 +6037,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2015,"Southern Europe",ESP,Spain,3,19,9,150,,159,2000
 2015,"Western Africa",BFA,"Burkina Faso",2,23,54,28871,,28925,31000
 2015,"Western Africa",CPV,"Cabo Verde",2,24,,,,,1100
-2015,"Western Africa",CIV,"Côte d’Ivoire",2,35,35,,,35,
+2015,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,35,35,,,35,
 2015,"Western Africa",GMB,"Gambia (the)",1,,,63100,,63100,
 2015,"Western Africa",GHA,Ghana,3,260,525,,5000,5525,12000
 2015,"Western Africa",GIN,Guinea,4,38,52,30079,,30131,
@@ -6166,7 +6165,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2016,"Southern Europe",ESP,Spain,2,18,34,150,,184,50000
 2016,"Western Africa",BEN,Benin,1,9,281,,,281,
 2016,"Western Africa",BFA,"Burkina Faso",3,54,101,27826,7032,34959,
-2016,"Western Africa",CIV,"Côte d’Ivoire",1,20,,,,,
+2016,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",1,20,,,,,
 2016,"Western Africa",GHA,Ghana,3,71,197,,,197,
 2016,"Western Africa",GIN,Guinea,1,15,30,,,30,
 2016,"Western Africa",LBR,Liberia,1,,,15431,,15431,
@@ -6299,7 +6298,7 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2017,"Southern Europe",SRB,Serbia,1,6,,,,,
 2017,"Southern Europe",ESP,Spain,2,4,,1500,,1500,
 2017,"Western Africa",BFA,"Burkina Faso",2,20,9029,882,,9911,
-2017,"Western Africa",CIV,"Côte d’Ivoire",2,17,646,200,,846,
+2017,"Western Africa",CIV,"Cï¿½te dï¿½Ivoire",2,17,646,200,,846,
 2017,"Western Africa",GHA,Ghana,3,36,22,1000000,,1000022,
 2017,"Western Africa",GIN,Guinea,2,,135,3274,,3409,
 2017,"Western Africa",MRT,Mauritania,2,18,40,3895774,,3895814,
@@ -6392,7 +6391,3 @@ year,region,iso," country_name",occurrence,"Total deaths",Injured,Affected,Homel
 2018,"Western Europe",DEU,Germany,3,13,24,,,24,1399000
 2018,"Western Europe",NLD,"Netherlands (the)",1,3,,,,,
 2018,"Western Europe",CHE,Switzerland,1,,16,,,16,
-
-
-"Created on: April 12, 2018"
-"Source: EM-DAT: The Emergency Events Database - Universite catholique de Louvain (UCL) - CRED, D. Guha-Sapir - www.emdat.be, Brussels, Belgium"
