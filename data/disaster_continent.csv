@@ -1,4 +1,4 @@
-year,continent,"disaster type",occurrence,"Total deaths",Injured,Affected,Homeless,"Total affected","Total damage  ('000 US$)"
+year,continent,disasterType,occurrence,totalDeaths,injured,affected,homeless,totalAffected,totalDamagekUSD
 1900,Africa,Drought,1,11000,,,,,
 1900,Americas,Epidemic,1,30,,,,,
 1900,Americas,Flood,1,300,,,,,
