@@ -48,7 +48,7 @@ layout = {
     "scope": "world",
     "showlakes": True
   },
-  "title": "US year bp"
+  "title": "US temperatures 2018"
 }
 fig = Figure(data=data, layout=layout)
 plot_url = py.plot(fig)
