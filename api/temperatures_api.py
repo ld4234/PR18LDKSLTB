@@ -1,18 +1,17 @@
 import pandas as pd
 from datetime import datetime
-from os.path import join, abspath, pardir
 
-GLOBAL_TEMPERATURES_DATASET = "temperatures_by_country"
+from util import resource_path
+
+GLOBAL_TEMPERATURES_DATASET = "data/temperatures_by_country"
 
 NORMAL_DATE = datetime(year=1900, month=1, day=1)
 
 data = None
 
-def get_data():  # not thread safe :)
-    global data
-    if data is None:
-        data = pd.read_csv(abspath(join(pardir, "data", GLOBAL_TEMPERATURES_DATASET)))
-        data.dt = pd.to_datetime(data.dt)
+def get_data():
+    data = pd.read_csv(resource_path(GLOBAL_TEMPERATURES_DATASET))
+    data.dt = pd.to_datetime(data.dt)
 
     return data
 
